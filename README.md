@@ -56,3 +56,4 @@ sudo iptables -t nat -L --verbose #Shows status of nat rules
 sudo iptables -t nat -F #Flushes nat rules
 
 
+
